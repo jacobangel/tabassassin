@@ -1,0 +1,25 @@
+{
+  "name": "tabassassin",
+  "description": "assassinate tabs dude what else ",
+  "version": "0.0.1",
+  "maintainers": [
+    {
+      "name": "jangel",
+      "email": "jacob.angel@gmail.com",
+      "web": "www.jacobdangel.com"
+    }
+  ],
+  "devDependencies": {
+    "falafel": "~0.3.1"
+  },
+  "dependencies": {
+    "": "",
+    "falafel": "~0.3.1"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/jacobangel/tabassassin.git"
+    }
+  ]
+}
